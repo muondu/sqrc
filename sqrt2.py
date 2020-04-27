@@ -1,3 +1,4 @@
 import math
-
-x = math.sqrt(58)
+a = int(input("Enter the number that needs to be done a square root: "))
+x = math.sqrt(a)
+print(x)
